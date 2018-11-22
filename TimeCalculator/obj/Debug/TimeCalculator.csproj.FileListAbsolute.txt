@@ -1,0 +1,15 @@
+X:\0\TimeCalculator\TimeCalculator\bin\Debug\TimeCalculator.exe.config
+X:\0\TimeCalculator\TimeCalculator\bin\Debug\TimeCalculator.exe
+X:\0\TimeCalculator\TimeCalculator\bin\Debug\TimeCalculator.pdb
+X:\0\TimeCalculator\TimeCalculator\obj\Debug\TimeCalculator.csprojAssemblyReference.cache
+X:\0\TimeCalculator\TimeCalculator\obj\Debug\MainWindow.g.cs
+X:\0\TimeCalculator\TimeCalculator\obj\Debug\App.g.cs
+X:\0\TimeCalculator\TimeCalculator\obj\Debug\TimeCalculator_MarkupCompile.cache
+X:\0\TimeCalculator\TimeCalculator\obj\Debug\TimeCalculator_MarkupCompile.lref
+X:\0\TimeCalculator\TimeCalculator\obj\Debug\MainWindow.baml
+X:\0\TimeCalculator\TimeCalculator\obj\Debug\TimeCalculator.g.resources
+X:\0\TimeCalculator\TimeCalculator\obj\Debug\TimeCalculator.Properties.Resources.resources
+X:\0\TimeCalculator\TimeCalculator\obj\Debug\TimeCalculator.csproj.GenerateResource.cache
+X:\0\TimeCalculator\TimeCalculator\obj\Debug\TimeCalculator.csproj.CoreCompileInputs.cache
+X:\0\TimeCalculator\TimeCalculator\obj\Debug\TimeCalculator.exe
+X:\0\TimeCalculator\TimeCalculator\obj\Debug\TimeCalculator.pdb
